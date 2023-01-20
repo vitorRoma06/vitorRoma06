@@ -1,6 +1,17 @@
-<h1>Salve aqui é o Vitor Roma</h1>
-<hr>
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=vitorRoma06&show_icons=true&theme=aura">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorRoma06&layout=compact">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1b66ff&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1b66ff&size=35&center=true&vCenter=true&width=1000&lines=SALVE,+Meu+nome+é+Vitor+de+Roma)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vitorRoma06&bg_color=0d1117&color=1b66ff&line=00cef5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitorRoma06&show_icons=true&count_private=true&hide_border=true&title_color=7e54e6&icon_color=7e54e6&text_color=c9d1d9&bg_color=0d1117"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorRoma06&layout=compact&hide_border=true&title_color=7e54e6&text_color=ff91a4&bg_color=0d1117" />
 </div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1b66ff&height=120&section=footer"/>
