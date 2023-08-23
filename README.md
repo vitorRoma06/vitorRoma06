@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1b66ff&size=35&center=true&vCenter=true&width=1000&lines=SALVE,+Meu+nome+é+Vitor+de+Roma;Tenho+16+anos;e+estou+tentando+programar+:%28)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vitorRoma06&bg_color=0d1117&color=1b66ff&line=00cef5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 <div align="center"> 
