@@ -3,7 +3,7 @@
 ## Olá! Eu sou o Vitor de Roma 🖐️
 
 <div width=80% align="center"> 
-  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vitorRoma06&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vitorRoma06&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vitorRoma06&layout=compact&langs_count=7&theme=github_dark"/>
 
 ## Tecnologias 
