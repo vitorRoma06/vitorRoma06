@@ -6,8 +6,6 @@
   <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vitorRoma06&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vitorRoma06&layout=compact&langs_count=7&theme=github_dark"/>
 
-</div>
-
 ## Tecnologias 
 
 <div  width=80% style="display: inline_block">
@@ -19,6 +17,5 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   
 </div><br/>
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1b66ff&height=120&section=footer"/>
