@@ -31,7 +31,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorRoma06/vitorRoma06/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorRoma06/vitorRoma06/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/vitorRoma06/vitorRoma06/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/vitorRoma06/vitorRoma06/output/snake.svg" alt="Snake animation" />
 </picture>
 
 ###
