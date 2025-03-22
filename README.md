@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Vitor de Roma</h2>
+<h2 align="center">Oi 👋! Meu nome Vitor de Roma</h2>
 
 ###
 
@@ -28,7 +28,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/vitorRoma06/vitorRoma06/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorRoma06/vitorRoma06/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorRoma06/vitorRoma06/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vitorRoma06/vitorRoma06/output/github-snake.svg" />
+</picture>
 
 ###
 
