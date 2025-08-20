@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4E9F3D&height=120&section=header"/>
+
 <h1 align="center">👋 Hi, I'm Vitor de Roma</h1>
 
 ## 👨‍💻 About Me
@@ -58,3 +60,5 @@
 <img src="https://raw.githubusercontent.com/vitorRoma06/vitorRoma06/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4E9F3D&height=120&section=footer"/>
