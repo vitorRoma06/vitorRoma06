@@ -8,7 +8,7 @@
 - 🛠️ Interested in **software design principles** and **best practices**  
 
 
-## 🚀 Main Tech Stack (Currently Working With)
+## 🚀 Tech Stack
 
 ### 💻 Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
