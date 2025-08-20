@@ -1,6 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4E9F3D&height=100&section=header" style="margin-bottom: -30px"/>
-
-# 👋 Hi, I'm Vitor de Roma
+<h1 align="center">👋 Hi, I'm Vitor de Roma</h1>
 
 ## 👨‍💻 About Me
 
