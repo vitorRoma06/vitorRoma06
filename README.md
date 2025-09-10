@@ -50,7 +50,7 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=vitorRoma06&hide_border=true&count_private=true&show_icons=true&bg_color=00000000&title_color=4E9F3D&text_color=D8E9A8&icon_color=E9C46A)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitorRoma06&theme=transparent&title_color=4E9F3D&text_color=D8E9A8&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorRoma06&layout=compact&hide_border=true&bg_color=00000000&title_color=4E9F3D&text_color=D8E9A8)
 
 ###
