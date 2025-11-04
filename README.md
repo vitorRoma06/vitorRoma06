@@ -46,15 +46,6 @@
 ![Swift](https://img.shields.io/badge/Swift-F54A2A.svg?style=for-the-badge&logo=swift&logoColor=white)
 
 
-
-
-## 📊 GitHub Stats
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitorRoma06&hide_border=true&bg_color=00000000&title_color=4E9F3D&text_color=D8E9A&theme=transparent)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorRoma06&layout=compact&hide_border=true&bg_color=00000000&title_color=4E9F3D&text_color=D8E9A8)
-
-###
-
 <img src="https://raw.githubusercontent.com/vitorRoma06/vitorRoma06/output/snake.svg" alt="Snake animation" />
 
 ###
